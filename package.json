@@ -1,0 +1,30 @@
+{
+  "name": "channel-bot",
+  "version": "0.0.1",
+  "description": "A help bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaphireVert/channel-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "npm",
+    "node",
+    "js",
+    "nodejs"
+  ],
+  "author": "Saphirevert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaphireVert/channel-bot/issues"
+  },
+  "homepage": "https://github.com/SaphireVert/channel-bot#readme",
+  "dependencies": {
+    "telebot": "^1.4.1"
+  }
+}
