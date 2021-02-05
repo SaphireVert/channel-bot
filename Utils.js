@@ -1,5 +1,3 @@
-const Coordinates = require('./Coordinates')
-
 class Utils {
 
    static updateInlineButtons(inline_msg, bot){
